@@ -43,6 +43,7 @@ Quiz-app/
 │   ├── quiz.jpg            # Background image for the quiz screen
 │   ├── score.jpg           # Background image for the score screen
 │   └── crown.png           # Trophy/crown icon on the score screen
+├── .gitignore              # Ignored files
 └── README.md
 ```
 
